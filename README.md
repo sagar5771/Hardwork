@@ -1,4 +1,5 @@
-//Code for snake game
+# Code for snake game
+```cpp
 #include <iostream>
 #include <conio.h>
 #include <windows.h>
@@ -151,4 +152,4 @@ int main()
 	}
 	return 0;
 }
-
+```
